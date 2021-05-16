@@ -3,7 +3,7 @@
 
 | Project | Description |
 |---|---|
-| [Amazon](https://github.com/israel-dryer/Amazon-Scraper) | product and price data |
+| [Amazon](https://github.com/mycreativecafe/YahooFinanceScraper) | product and price data |
 | [Yahoo! Finance](https://github.com/mycreativecafe/AmazonScraping) | financial, company and historical stock data |
 
 ## Requirements

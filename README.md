@@ -1,4 +1,4 @@
-# web scraping
+# Web Scraping
 #### Collection of my web scraping projects.
 
 | Project | Description |

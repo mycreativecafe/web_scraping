@@ -1,2 +1,2 @@
 # web_scraping
-Repository for my web scraping projects
+#### Collection of my web scraping projects.
